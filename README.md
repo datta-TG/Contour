@@ -14,7 +14,7 @@ If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.c
 
 ![Screenshot](Kubernetes2.PNG)
 
-* We then wait a few minutes. The following checkmark and the word 'normal' will appear once the Kubernetes Cluster is deployed
+* We then wait a few minutes. The following checkmark and the word 'normal' will appear once the Kubernetes Cluster is deployed.
 
 ![Screenshot](Kubernetes3.PNG)
 
@@ -30,7 +30,7 @@ If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.c
 
 ## Step 3: Install Contour
 
-* Click on the search section at the top of the main page, type Contour and click on it
+* Click on the search section at the top of the main page, type Contour and click on it.
 
 ![Screenshot](contour1.PNG)
 
@@ -40,7 +40,7 @@ If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.c
 
 ## Step 4: Verify Installation
 
-* Go to *Resources List* in the Left Navigation Menu and click on *Kubernetes*
+* Go to *Resources List* in the Left Navigation Menu and click on *Kubernetes*.
 
 ![Screenshot](test1.PNG)
 
