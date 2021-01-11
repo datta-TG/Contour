@@ -1,8 +1,8 @@
 # Install Contour in IBM Cloud
 
 ## Pre-requisites
-You must have an account created in IBM Cloud. The account needs to be either be *Pay-As-You-Go* or *Subscription*. Click [here] (https://cloud.ibm.com/docs/account?topic=account-accounts "here") to read more.
-If you have a Lite account, you can upgrade it. Click [here] (https://cloud.ibm.com/docs/account?topic=account-account-getting-started#account-gs-upgrade "here") to learn how to upgrade.
+You must have an account created in IBM Cloud. The account needs to be either be *Pay-As-You-Go* or *Subscription*. Click [here](https://cloud.ibm.com/docs/account?topic=account-accounts "here") to read more.
+If you have a Lite account, you can upgrade it. Click [here](https://cloud.ibm.com/docs/account?topic=account-account-getting-started#account-gs-upgrade "here") to learn how to upgrade.
 
 ## Step 1: Provision Kubernetes Cluster
 
