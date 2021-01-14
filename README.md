@@ -53,11 +53,11 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Click on the search section at the top of the main page, select IBM Cloud Block Storage, and click on it.
 
-![Screenshot](Storage1.PNG)
+![Screenshot](StoragePaid1.PNG)
 
 * A new window opens, select the cluster and enter the name you want for this workspace, in this case, it will be called _storage-example_, accept the terms, click *Install* and wait a few minutes.
 
-![Screenshot](StoragePaid1.PNG)
+![Screenshot](StoragePaid2.PNG)
 
 
 ## Step 3: Install Contour
@@ -75,7 +75,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 * Go to *Resources List* in the Left Navigation Menu and click on *Kubernetes*.
 
-![Screenshot](test11.png)
+![Screenshot](test1.png)
 
 * Click the *Actions* button and select *Web terminal*.
 
@@ -91,22 +91,22 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 `$ kubectl get ns`
 
-![Screenshot](test4.PNG)
+![Screenshot](testcountour1.PNG)
 
 * You can then obtain more data about the service and it's pods.
 
 `$ kubectl get pod -n NAMESERVICE -o wide`
 
-![Screenshot](test5.PNG)
+![Screenshot](testcountour2.PNG)
 
 `$ kubectl get service -n NAME SERVICE`
 
-![Screenshot](test6.PNG)
+![Screenshot](testcountour3.PNG)
 
 * Select the pod within your service using bash so you can start using Contour from the terminal.
 
 `$ kubectl exec --stdin --tty PODNAME -n NAMESPACE -- /bin/bash`
 
-![Screenshot](test8.PNG)
+![Screenshot](testcountour4.PNG)
 
 You have finished the installation, enjoy your Contour installation!
