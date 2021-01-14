@@ -87,7 +87,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 ![Screenshot](test7.PNG)
 
-* Once you have installed the terminal, click on the action button again, select web terminal, and type the following command. It will show you the workspaces of your cluster. You can see *contour-example* is now active.
+* Once you have installed the terminal, open it and type the following command. It will show you the workspaces of your cluster. You can see *contour-example* is now active.
 
 `$ kubectl get ns`
 
